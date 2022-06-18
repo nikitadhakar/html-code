@@ -51,6 +51,7 @@ font-size:x-large;
  }
  .contact{
     color: white;
+     padding-left: 4em;
  }
  .contact a{
     color:white;
@@ -68,7 +69,7 @@ font-size:x-large;
     color: white;
  }
  span.contact {
-    padding-right: 50em;
+    padding-right: 40em;
 }
 .email{
     padding-right:1em;  
@@ -298,8 +299,8 @@ border-radius: 70%;
 }
 .grant{
     color:white;
-    padding-right: 47em;
-    padding-left: 3em;
+    padding-right: 35em;
+    padding-left: 7em;
     padding-top: 0.5em;
 }
 .log li{
